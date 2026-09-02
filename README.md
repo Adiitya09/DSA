@@ -30,4 +30,8 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1045-customers-who-bought-all-products](https://github.com/Adiitya09/DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
 <!---LeetCode Topics End-->
