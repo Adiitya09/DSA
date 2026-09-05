@@ -34,4 +34,12 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1045-customers-who-bought-all-products](https://github.com/Adiitya09/DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Adiitya09/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Adiitya09/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 <!---LeetCode Topics End-->
