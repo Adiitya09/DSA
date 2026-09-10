@@ -31,6 +31,7 @@ Leetcode Problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adiitya09/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -48,4 +49,12 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adiitya09/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adiitya09/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
