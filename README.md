@@ -34,11 +34,7 @@ Leetcode Problems
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adiitya09/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1045-customers-who-bought-all-products](https://github.com/Adiitya09/DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
-| [1527-patients-with-a-condition](https://github.com/Adiitya09/DSA/tree/main/1527-patients-with-a-condition/) | Easy |
+
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
