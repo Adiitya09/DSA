@@ -38,6 +38,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1045-customers-who-bought-all-products](https://github.com/Adiitya09/DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1527-patients-with-a-condition](https://github.com/Adiitya09/DSA/tree/main/1527-patients-with-a-condition/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
