@@ -16,6 +16,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Adiitya09/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/Adiitya09/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Adiitya09/DSA/tree/main/0836-rectangle-overlap/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/Adiitya09/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adiitya09/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
