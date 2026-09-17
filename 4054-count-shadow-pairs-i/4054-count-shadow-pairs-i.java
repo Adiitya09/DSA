@@ -1,31 +1,37 @@
 class Solution {
+
     public long shadowPairs(int[] nums) {
-        ArrayList<Integer> stack = new ArrayList<>();
-
-        long ans =0;
-
-        for (int x : nums) {
-
-            while (!stack.isEmpty() && stack.get(stack.size() - 1) > x) {
-                stack.remove(stack.size() - 1);
+        int n = nums.length;
+        int value[] = new int [n];
+        int count[] = new int [n];
+        int top = -1;
+        long ans = 0;
+        int total =0;
+        for(int i=0 ; i<n ; i++){
+            int temp = nums[i];
+            while(top >=0 && temp < value[top]){
+                total -= count[top];
+                top--;
             }
-             int left = 0;
-            int right = stack.size();
-
-            while (left < right) {
-                int mid = left + (right - left) / 2;
-
-                if (stack.get(mid) < x) {
-                    left = mid + 1;
-                } else {
-                    right = mid;
+            if (top>=0){
+                if(value[top] < temp){
+                    ans += total;
+                    top++;
+                    value[top] = temp;
+                    count[top] = 1;
+                }
+                else{ // case temp == value[top]
+                    ans += total - count[top];
+                    count[top]++;
                 }
             }
-            ans += left;
-
-            stack.add(x);
+            else { // top < 0 (== -1)
+                top++;
+                value[top] = temp;
+                count[top] = 1;
+            }
+            total++;
         }
-
         return ans;
     }
 }
