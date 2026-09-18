@@ -14,6 +14,7 @@ Leetcode Problems
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Adiitya09/DSA/tree/main/4053-minimum-operations-to-make-every-element-palindromic/) | Medium |
+| [4054-count-shadow-pairs-i](https://github.com/Adiitya09/DSA/tree/main/4054-count-shadow-pairs-i/) | Medium |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Adiitya09/DSA/tree/main/0682-baseball-game/) | Easy |
+| [4054-count-shadow-pairs-i](https://github.com/Adiitya09/DSA/tree/main/4054-count-shadow-pairs-i/) | Medium |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ Leetcode Problems
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [4054-count-shadow-pairs-i](https://github.com/Adiitya09/DSA/tree/main/4054-count-shadow-pairs-i/) | Medium |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
