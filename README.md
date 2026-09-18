@@ -12,6 +12,7 @@ Leetcode Problems
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Adiitya09/DSA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Adiitya09/DSA/tree/main/0682-baseball-game/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +97,8 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 <!---LeetCode Topics End-->
