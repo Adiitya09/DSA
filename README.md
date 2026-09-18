@@ -12,6 +12,7 @@ Leetcode Problems
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Adiitya09/DSA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Adiitya09/DSA/tree/main/0682-baseball-game/) | Easy |
+| [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +71,28 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Adiitya09/DSA/tree/main/0836-rectangle-overlap/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 <!---LeetCode Topics End-->
