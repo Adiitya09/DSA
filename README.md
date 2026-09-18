@@ -13,6 +13,7 @@ Leetcode Problems
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Adiitya09/DSA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Adiitya09/DSA/tree/main/4053-minimum-operations-to-make-every-element-palindromic/) | Medium |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Leetcode Problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Adiitya09/DSA/tree/main/4053-minimum-operations-to-make-every-element-palindromic/) | Medium |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
