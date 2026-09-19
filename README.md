@@ -41,6 +41,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Adiitya09/DSA/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Adiitya09/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Adiitya09/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adiitya09/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -76,6 +77,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Adiitya09/DSA/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Adiitya09/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
