@@ -34,6 +34,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Adiitya09/DSA/tree/main/0682-baseball-game/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Adiitya09/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Adiitya09/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Adiitya09/DSA/tree/main/0917-reverse-only-letters/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Adiitya09/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adiitya09/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
