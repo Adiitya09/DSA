@@ -12,6 +12,7 @@ Leetcode Problems
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Adiitya09/DSA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Adiitya09/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adiitya09/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Adiitya09/DSA/tree/main/4053-minimum-operations-to-make-every-element-palindromic/) | Medium |
@@ -46,6 +47,7 @@ Leetcode Problems
 | [0836-rectangle-overlap](https://github.com/Adiitya09/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Adiitya09/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Adiitya09/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adiitya09/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adiitya09/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
