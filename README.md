@@ -64,6 +64,7 @@ Leetcode Problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Adiitya09/DSA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Adiitya09/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Adiitya09/DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -92,6 +93,7 @@ Leetcode Problems
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Adiitya09/DSA/tree/main/0148-sort-list/) | Medium |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -104,6 +106,7 @@ Leetcode Problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Adiitya09/DSA/tree/main/0148-sort-list/) | Medium |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -114,4 +117,12 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Adiitya09/DSA/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Adiitya09/DSA/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
