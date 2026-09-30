@@ -28,6 +28,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Adiitya09/DSA/tree/main/0682-baseball-game/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiitya09/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [4054-count-shadow-pairs-i](https://github.com/Adiitya09/DSA/tree/main/4054-count-shadow-pairs-i/) | Medium |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Simulation
@@ -59,6 +60,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Adiitya09/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Adiitya09/DSA/tree/main/0917-reverse-only-letters/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiitya09/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Adiitya09/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adiitya09/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Two Pointers
@@ -125,4 +127,8 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Adiitya09/DSA/tree/main/0148-sort-list/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiitya09/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
