@@ -27,6 +27,7 @@ Leetcode Problems
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Adiitya09/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/Adiitya09/DSA/tree/main/0682-baseball-game/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiitya09/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [4054-count-shadow-pairs-i](https://github.com/Adiitya09/DSA/tree/main/4054-count-shadow-pairs-i/) | Medium |
@@ -58,6 +59,7 @@ Leetcode Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Adiitya09/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Adiitya09/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Adiitya09/DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiitya09/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -130,5 +132,6 @@ Leetcode Problems
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Adiitya09/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiitya09/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
