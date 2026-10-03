@@ -10,6 +10,7 @@ Leetcode Problems
 | [0724-find-pivot-index](https://github.com/Adiitya09/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Adiitya09/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Adiitya09/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Adiitya09/DSA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Adiitya09/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adiitya09/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -55,6 +56,7 @@ Leetcode Problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Adiitya09/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adiitya09/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
 | Problem Name | Difficulty |
