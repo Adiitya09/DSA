@@ -9,6 +9,7 @@ Leetcode Problems
 | [0682-baseball-game](https://github.com/Adiitya09/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Adiitya09/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Adiitya09/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Adiitya09/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Adiitya09/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Adiitya09/DSA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -37,6 +38,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Adiitya09/DSA/tree/main/0682-baseball-game/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Adiitya09/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Adiitya09/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
