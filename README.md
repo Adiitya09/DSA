@@ -38,6 +38,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Adiitya09/DSA/tree/main/0682-baseball-game/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Adiitya09/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Adiitya09/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Adiitya09/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -51,6 +52,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Adiitya09/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Adiitya09/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/Adiitya09/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Adiitya09/DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adiitya09/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adiitya09/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
