@@ -14,6 +14,7 @@ Leetcode Problems
 | [2215-find-the-difference-of-two-arrays](https://github.com/Adiitya09/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Adiitya09/DSA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Adiitya09/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Adiitya09/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adiitya09/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiitya09/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
@@ -85,6 +86,7 @@ Leetcode Problems
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Adiitya09/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adiitya09/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
