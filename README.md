@@ -10,6 +10,7 @@ Leetcode Problems
 | [0724-find-pivot-index](https://github.com/Adiitya09/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Adiitya09/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Adiitya09/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Adiitya09/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Adiitya09/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Adiitya09/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -129,6 +130,7 @@ Leetcode Problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/Adiitya09/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Adiitya09/DSA/tree/main/4052-cyclically-shift-rows-and-columns/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
