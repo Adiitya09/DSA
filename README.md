@@ -12,6 +12,7 @@ Leetcode Problems
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Adiitya09/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Adiitya09/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Adiitya09/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Adiitya09/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adiitya09/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Adiitya09/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Adiitya09/DSA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -102,6 +103,7 @@ Leetcode Problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Adiitya09/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Adiitya09/DSA/tree/main/4053-minimum-operations-to-make-every-element-palindromic/) | Medium |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Divide and Conquer
@@ -121,6 +123,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Adiitya09/DSA/tree/main/0148-sort-list/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Adiitya09/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
