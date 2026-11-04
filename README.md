@@ -54,6 +54,7 @@ Leetcode Problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0372-super-pow](https://github.com/Adiitya09/DSA/tree/main/0372-super-pow/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Adiitya09/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Adiitya09/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Adiitya09/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -110,6 +111,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Adiitya09/DSA/tree/main/0148-sort-list/) | Medium |
+| [0372-super-pow](https://github.com/Adiitya09/DSA/tree/main/0372-super-pow/) | Medium |
 | [4055-count-shadow-pairs-ii](https://github.com/Adiitya09/DSA/tree/main/4055-count-shadow-pairs-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -148,4 +150,12 @@ Leetcode Problems
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Adiitya09/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiitya09/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+## Euler's Totient Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/Adiitya09/DSA/tree/main/0372-super-pow/) | Medium |
+## Euler's Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/Adiitya09/DSA/tree/main/0372-super-pow/) | Medium |
 <!---LeetCode Topics End-->
